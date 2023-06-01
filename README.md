@@ -1,2 +1,0 @@
-# CupeSurfersClone
-StackMecanic
